@@ -1,1 +1,6 @@
-package _1_databaseSql使用指南
+package main
+
+func main() {
+
+
+}

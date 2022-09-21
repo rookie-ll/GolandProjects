@@ -1,1 +1,6 @@
-package _1_Go语言标准库之fmt与格式化占位符
+package main
+
+func main() {
+
+
+}
