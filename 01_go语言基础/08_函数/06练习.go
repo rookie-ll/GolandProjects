@@ -23,4 +23,11 @@ var (
 func main() {
 	left := dispatchCoin()
 	fmt.Println("剩下：", left)
+
+}
+
+func dispatchCoin() int {
+	fmt.Println(coins)
+	fmt.Println(distribution)
+	return 0
 }
